@@ -2,11 +2,12 @@
 title: TestGitEdit
 description: 
 published: true
-date: 2025-08-17T12:22:09.231Z
+date: 2025-08-17T12:57:05.823Z
 tags: 
 editor: markdown
-dateCreated: 2025-08-17T11:51:05.110Z
+dateCreated: 2025-08-17T12:56:44.073Z
 ---
 
 # TestGitEdit
 Tohle je GIT vytvoreni.
+Tohle je documan editacce.
