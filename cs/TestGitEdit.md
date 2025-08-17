@@ -14,3 +14,5 @@ Tohle je GIT edit.
 Tohle je documan edit.
 Tohle je dalsi GIT edit.
 Tohle je documan edit.
+Tohle je git edit [ref-page](./custom/ref-page)
+
