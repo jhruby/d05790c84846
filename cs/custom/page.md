@@ -2,7 +2,7 @@
 title: Vlastní stránka
 description: 
 published: true
-date: 2025-08-17T14:35:04.589Z
+date: 2025-08-17T14:35:09.497Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-17T08:43:11.648Z
@@ -28,4 +28,4 @@ dateCreated: 2025-08-17T08:43:11.648Z
 14
 15
 16
-20
+17
