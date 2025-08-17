@@ -10,3 +10,4 @@ dateCreated: 2025-08-17T11:51:05.110Z
 
 # TestGitEdit
 Tohle je GIT vytvoreni.
+
