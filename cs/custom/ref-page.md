@@ -2,7 +2,7 @@
 title: RefPage
 description: 
 published: true
-date: 2025-08-17T10:46:39.449Z
+date: 2025-08-17T10:47:46.762Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-17T10:45:05.299Z
@@ -10,3 +10,4 @@ dateCreated: 2025-08-17T10:45:05.299Z
 
 # Ref Page
 1. Editace
+2. Editace
