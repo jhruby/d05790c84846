@@ -2,7 +2,7 @@
 title: TestGitEdit
 description: 
 published: true
-date: 2025-08-17T12:20:11.301Z
+date: 2025-08-17T12:22:09.231Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-17T11:51:05.110Z
@@ -16,3 +16,4 @@ Tohle je dalsi GIT edit.
 Tohle je documan edit.
 Tohle je git edit [ref-page](./custom/ref-page)
 Tohle je documan edit
+Dalsi documan
