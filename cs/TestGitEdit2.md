@@ -2,7 +2,7 @@
 title: TestGitEdit
 description: 
 published: true
-date: 2025-08-26T08:40:17.876Z
+date: 2025-08-26T08:41:14.458Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-17T12:56:44.073Z
@@ -15,3 +15,4 @@ Tohle je 10:37 editace
 Tohle je 10:38 editace
 Tohle je 10:39 editace
 Tohle je 10:40 editace
+Tohle je 10:41 editace
