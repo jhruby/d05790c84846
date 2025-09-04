@@ -2,7 +2,7 @@
 title: listopad
 description: 
 published: true
-date: 2025-09-04T08:40:51.756Z
+date: 2025-09-04T08:42:29.986Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-04T08:39:36.859Z
