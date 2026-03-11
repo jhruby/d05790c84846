@@ -2,12 +2,12 @@
 title: History Page
 description: MAN-76 test page
 published: true
-date: 2026-03-11T05:57:31.043Z
+date: 2026-03-11T05:57:31.981Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-11T05:57:31.043Z
 ---
 
 # History Page Title
-Original history content.
+Updated history content.
 [Embed target](/cs/test-display/target#display)
