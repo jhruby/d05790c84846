@@ -2,7 +2,7 @@
 title: Basic Draft Test
 description: MAN-78 draft test page
 published: true
-date: 2026-03-24T14:35:32.557Z
+date: 2026-03-24T14:35:55.138Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-24T14:35:32.557Z
@@ -10,4 +10,4 @@ dateCreated: 2026-03-24T14:35:32.557Z
 
 # Basic Page
 
-Original published content.
+Draft content - not yet published.
