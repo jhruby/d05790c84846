@@ -2,10 +2,10 @@
 title: Draft View Test
 description: MAN-78 draft test page
 published: true
-date: 2026-03-24T15:14:51.680Z
+date: 2026-03-24T15:36:01.805Z
 tags: 
 editor: markdown
-dateCreated: 2026-03-24T15:14:34.245Z
+dateCreated: 2026-03-24T15:35:43.936Z
 ---
 
 # Draft View
