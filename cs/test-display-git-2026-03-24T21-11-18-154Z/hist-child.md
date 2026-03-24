@@ -2,12 +2,12 @@
 title: History Child
 description: Git history test page
 published: true
-date: 2026-03-24T21:11:23.905Z
+date: 2026-03-24T21:11:36.423Z
 tags: []
 editor: markdown
-dateCreated: 2026-03-24T21:11:23.905Z
+dateCreated: 2026-03-24T21:11:36.423Z
 ---
 
 # History Child Heading
 
-History child original content.
+History child UPDATED content via git.
