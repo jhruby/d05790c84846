@@ -2,14 +2,14 @@
 title: History Top
 description: Git history test page
 published: true
-date: 2026-03-24T15:12:40.781Z
+date: 2026-03-24T15:13:07.214Z
 tags: []
 editor: markdown
-dateCreated: 2026-03-24T15:12:40.781Z
+dateCreated: 2026-03-24T15:13:07.214Z
 ---
 
 # History Top Heading
 
-History top content.
+History top UPDATED via git - down propagation test.
 
 [Embed level 1](/cs/test-display-git-2026-03-24T15-11-48-338Z/hist-level-1#display)
