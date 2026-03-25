@@ -2,12 +2,13 @@
 title: Untitled Page
 description: 
 published: true
-date: 2026-03-24T23:50:10.082Z
+date: 2026-03-25T05:11:38.066Z
 tags: 
 editor: markdown
-dateCreated: 2026-03-24T23:50:09.190Z
+dateCreated: 2026-03-25T05:11:37.089Z
 ---
 
 # New Page Draft
 
-This is draft content for a new page.
+This is draft content for a new page.# Header
+Your content here
