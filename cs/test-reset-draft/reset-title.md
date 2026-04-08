@@ -1,8 +1,8 @@
 ---
-title: Changed Draft Title
+title: Original Title
 description: Reset draft test page
 published: true
-date: 2026-04-08T19:18:38.045Z
+date: 2026-04-08T19:18:33.205Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-08T19:18:33.205Z
@@ -10,4 +10,4 @@ dateCreated: 2026-04-08T19:18:33.205Z
 
 # Reset Title
 
-Draft content for title reset.
+Published content for title reset.
