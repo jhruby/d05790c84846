@@ -1,13 +1,13 @@
 ---
-title: Draft Title
+title: Has Draft Page
 description: Reset draft test page
 published: true
-date: 2026-04-08T20:34:58.565Z
+date: 2026-04-08T20:34:51.396Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-08T20:34:51.396Z
 ---
 
-# Draft Content
+# Has Draft
 
-Draft body.
+Published content.
