@@ -1,14 +1,13 @@
 ---
-title: Edit After Reset
-description: Reset draft test page
+title: Draft Edit Title
+description: Draft edit description
 published: true
-date: 2026-04-08T19:37:54.656Z
+date: 2026-04-08T19:44:49.085Z
 tags: 
 editor: markdown
-dateCreated: 2026-04-08T19:37:29.394Z
+dateCreated: 2026-04-08T19:44:45.655Z
 ---
 
-# Original Edit
+# Draft Edit
 
-Published content for edit-after-reset.
-New content after reset.
+Draft content.
