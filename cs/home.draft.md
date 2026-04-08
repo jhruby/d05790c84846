@@ -1,8 +1,8 @@
 ---
-title: Tohle je domovd
+title: Tohle je domov
 description: 
 published: true
-date: 2026-04-08T18:58:27.932Z
+date: 2026-04-08T19:05:59.318Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-08T18:49:12.668Z
