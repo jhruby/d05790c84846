@@ -2,10 +2,10 @@
 title: Draft Publish Title
 description: Draft publish description
 published: true
-date: 2026-04-08T19:46:57.206Z
+date: 2026-04-08T19:54:53.428Z
 tags: 
 editor: markdown
-dateCreated: 2026-04-08T19:46:52.219Z
+dateCreated: 2026-04-08T19:54:48.535Z
 ---
 
 # Draft Publish
