@@ -2,10 +2,10 @@
 title: New Draft Title
 description: Draft title/description test page
 published: true
-date: 2026-04-08T19:11:00.552Z
+date: 2026-04-08T19:19:27.153Z
 tags: 
 editor: markdown
-dateCreated: 2026-04-08T19:10:50.389Z
+dateCreated: 2026-04-08T19:19:16.771Z
 ---
 
 # API Title Test

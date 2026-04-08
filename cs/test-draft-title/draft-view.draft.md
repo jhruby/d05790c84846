@@ -2,10 +2,10 @@
 title: Draft Preview Title
 description: Draft title/description test page
 published: true
-date: 2026-04-08T19:11:10.473Z
+date: 2026-04-08T19:19:37.264Z
 tags: 
 editor: markdown
-dateCreated: 2026-04-08T19:10:53.777Z
+dateCreated: 2026-04-08T19:19:20.378Z
 ---
 
 # Draft View
