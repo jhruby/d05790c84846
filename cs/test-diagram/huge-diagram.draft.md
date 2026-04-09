@@ -2,10 +2,10 @@
 title: Huge Diagram Test
 description: MAN-77 diagram test page
 published: true
-date: 2026-04-08T20:28:53.058Z
+date: 2026-04-09T19:08:06.519Z
 tags: 
 editor: markdown
-dateCreated: 2026-04-08T20:28:50.063Z
+dateCreated: 2026-04-09T19:08:03.416Z
 ---
 
 # Huge Diagram Test
