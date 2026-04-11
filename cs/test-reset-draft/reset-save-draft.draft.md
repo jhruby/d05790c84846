@@ -2,10 +2,10 @@
 title: Save Draft After Reset
 description: Reset draft test page
 published: true
-date: 2026-04-09T19:35:36.578Z
+date: 2026-04-11T19:17:53.175Z
 tags: 
 editor: markdown
-dateCreated: 2026-04-09T19:35:24.234Z
+dateCreated: 2026-04-11T19:17:39.614Z
 ---
 
 null
