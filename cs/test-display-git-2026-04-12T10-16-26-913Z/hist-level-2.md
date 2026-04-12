@@ -2,14 +2,14 @@
 title: History Level 2
 description: Git history test page
 published: true
-date: 2026-04-12T10:17:09.575Z
+date: 2026-04-12T10:17:52.190Z
 tags: []
 editor: markdown
-dateCreated: 2026-04-12T10:17:09.575Z
+dateCreated: 2026-04-12T10:17:52.190Z
 ---
 
 # History Level 2 Heading
 
-History level 2 content.
+History level 2 UPDATED via git - bidirectional test.
 
 [Embed level 3](/cs/test-display-git-2026-04-12T10-16-26-913Z/hist-level-3#display)
