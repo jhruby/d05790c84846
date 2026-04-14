@@ -2,10 +2,10 @@
 title: Draft Title
 description: Reset draft test page
 published: true
-date: 2026-04-12T10:22:14.184Z
+date: 2026-04-14T02:46:26.676Z
 tags: 
 editor: markdown
-dateCreated: 2026-04-12T10:22:06.923Z
+dateCreated: 2026-04-14T02:46:18.924Z
 ---
 
 # Draft Content
