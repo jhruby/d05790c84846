@@ -1,13 +1,13 @@
 ---
-title: Draft Preview Title
+title: Draft Editor Title
 description: Draft title/description test page
 published: true
-date: 2026-08-23T09:37:49.703Z
+date: 2026-08-23T09:37:50.508Z
 tags: 
 editor: markdown
-dateCreated: 2026-08-23T09:37:48.898Z
+dateCreated: 2026-08-23T09:37:49.708Z
 ---
 
-# Draft View
+# Editor Load
 
 Draft content.
