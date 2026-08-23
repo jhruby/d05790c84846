@@ -2,12 +2,12 @@
 title: History Test
 description: Draft/Publish git test page
 published: true
-date: 2026-08-23T09:35:48.379Z
-tags: []
+date: 2026-08-23T09:35:59.292Z
+tags: 
 editor: markdown
-dateCreated: 2026-08-23T09:35:48.379Z
+dateCreated: 2026-08-23T09:35:55.783Z
 ---
 
 # History Test
 
-Original content.
+Updated content for history test.
