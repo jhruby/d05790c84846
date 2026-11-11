@@ -2,10 +2,10 @@
 title: Secret Draft Title
 description: Draft title/description test page
 published: true
-date: 2026-08-23T10:05:41.513Z
+date: 2026-11-11T12:12:23.868Z
 tags: 
 editor: markdown
-dateCreated: 2026-08-23T10:05:40.628Z
+dateCreated: 2026-11-11T12:12:22.564Z
 ---
 
 # Page View
