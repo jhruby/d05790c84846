@@ -2,10 +2,10 @@
 title: Edit After Reset
 description: Reset draft test page
 published: true
-date: 2026-11-11T14:01:30.948Z
+date: 2026-11-16T14:25:04.997Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-11T14:01:29.558Z
+dateCreated: 2026-11-16T14:25:04.189Z
 ---
 
 # Original Edit
