@@ -2,14 +2,12 @@
 title: Git Sync Test
 description: MAN-78 draft test page
 published: true
-date: 2026-11-11T12:39:41.610Z
+date: 2026-11-16T14:20:34.110Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-11T12:39:25.663Z
+dateCreated: 2026-11-16T14:20:21.892Z
 ---
 
 # Git Sync
-# Git Sync
 
 Content for save status test.
-Content to be published via UI.
