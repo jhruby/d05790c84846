@@ -1,13 +1,13 @@
 ---
-title: Publish Promote Title
-description: Draft title/description test page
+title: Promoted Title
+description: Promoted Description
 published: true
-date: 2026-11-23T10:05:57.382Z
+date: 2026-11-23T10:06:04.967Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T10:05:57.382Z
 ---
 
-# Publish Promote
+# Published Promoted
 
-Original content.
+Content after publish.
