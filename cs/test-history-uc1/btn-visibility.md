@@ -2,7 +2,7 @@
 title: Button Visibility
 description: UC-1 history test
 published: true
-date: 2026-11-23T10:07:25.191Z
+date: 2026-11-23T10:07:32.061Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T10:07:25.191Z
@@ -10,4 +10,4 @@ dateCreated: 2026-11-23T10:07:25.191Z
 
 # Button Visibility
 
-Initial content.
+Edited content.
