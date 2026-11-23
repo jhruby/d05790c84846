@@ -10,6 +10,6 @@ dateCreated: 2026-11-23T10:02:25.048Z
 
 # Diff View
 
-Changed content here.
+Draft for toggle test.
 
 This paragraph stays the same.
