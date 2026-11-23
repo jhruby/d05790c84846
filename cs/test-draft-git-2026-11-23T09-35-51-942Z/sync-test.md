@@ -1,0 +1,13 @@
+---
+title: Sync Test
+description: Draft/Publish git test page
+published: true
+date: 2026-11-23T09:36:39.744Z
+tags: []
+editor: markdown
+dateCreated: 2026-11-23T09:36:39.744Z
+---
+
+# Sync Test
+
+Published content.
