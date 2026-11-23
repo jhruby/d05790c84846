@@ -10,4 +10,4 @@ dateCreated: 2026-11-23T10:05:06.262Z
 
 # Publish Test
 
-This is draft content waiting to be published.
+Newly published content from draft.
