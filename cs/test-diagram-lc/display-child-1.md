@@ -2,7 +2,7 @@
 title: Display Child 1
 description: KAN-16 diagram lifecycle test page
 published: true
-date: 2026-11-23T09:58:55.783Z
+date: 2026-11-23T09:58:56.762Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T09:58:55.783Z
