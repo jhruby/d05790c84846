@@ -10,4 +10,4 @@ dateCreated: 2026-11-23T10:02:23.318Z
 
 # Draft Info Bar
 
-Draft content with author info.
+Draft to be published for info bar test.
