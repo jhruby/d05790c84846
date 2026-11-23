@@ -2,10 +2,10 @@
 title: Draft Editor Title
 description: Draft title/description test page
 published: true
-date: 2026-11-16T14:21:14.452Z
+date: 2026-11-23T09:38:57.640Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-16T14:21:13.648Z
+dateCreated: 2026-11-23T09:38:56.819Z
 ---
 
 # Editor Load

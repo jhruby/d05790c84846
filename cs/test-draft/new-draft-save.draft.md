@@ -2,10 +2,10 @@
 title: Untitled Page
 description: 
 published: true
-date: 2026-11-16T14:20:56.519Z
+date: 2026-11-23T09:38:39.452Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-16T14:20:55.698Z
+dateCreated: 2026-11-23T09:38:38.633Z
 ---
 
 # New Page Draft
