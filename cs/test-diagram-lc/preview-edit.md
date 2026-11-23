@@ -2,7 +2,7 @@
 title: Preview Edit
 description: KAN-16 diagram lifecycle test page
 published: true
-date: 2026-11-23T09:58:44.142Z
+date: 2026-11-23T09:58:45.124Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T09:58:44.142Z
