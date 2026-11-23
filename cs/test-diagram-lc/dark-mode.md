@@ -2,7 +2,7 @@
 title: Dark Mode
 description: KAN-16 diagram lifecycle test page
 published: true
-date: 2026-11-23T09:58:28.158Z
+date: 2026-11-23T09:58:29.141Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T09:58:28.158Z
