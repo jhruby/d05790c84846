@@ -10,4 +10,4 @@ dateCreated: 2026-11-23T10:05:05.437Z
 
 # Basic Page
 
-This draft content should appear in editor.
+Draft to be published.
