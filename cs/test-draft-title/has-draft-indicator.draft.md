@@ -2,10 +2,10 @@
 title: Changed Draft Title
 description: Draft title/description test page
 published: true
-date: 2026-11-23T09:39:00.155Z
+date: 2026-11-23T10:06:03.214Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-23T09:38:59.342Z
+dateCreated: 2026-11-23T10:06:02.365Z
 ---
 
 # Has Draft
