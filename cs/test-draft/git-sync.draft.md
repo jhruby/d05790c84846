@@ -10,4 +10,4 @@ dateCreated: 2026-11-23T10:05:07.939Z
 
 # Git Sync
 
-Draft saved via UI button.
+Content to be published via UI.
