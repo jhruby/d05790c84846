@@ -1,11 +1,13 @@
 ---
-title: Save Draft After Reset
-description: Reset draft test page
+title: Draft Save Title
+description: Draft save description
 published: true
-date: 2026-11-23T09:43:03.324Z
+date: 2026-11-23T10:09:51.758Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-23T09:42:51.828Z
+dateCreated: 2026-11-23T10:09:50.934Z
 ---
 
-null
+# Draft Save
+
+Draft content.
