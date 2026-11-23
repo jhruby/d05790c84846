@@ -2,11 +2,11 @@
 title: History Level 3
 description: MAN-76 test page
 published: true
-date: 2026-11-23T10:01:25.030Z
+date: 2026-11-23T10:01:55.498Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T10:01:25.030Z
 ---
 
 # History Level 3 Heading
-History level 3 original content.
+History level 3 UPDATED content - three-level propagation test.
