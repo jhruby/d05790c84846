@@ -2,7 +2,7 @@
 title: Display Parent
 description: KAN-16 diagram lifecycle test page
 published: true
-date: 2026-11-23T09:59:00.885Z
+date: 2026-11-23T09:59:01.765Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T09:59:00.885Z
