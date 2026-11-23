@@ -2,7 +2,7 @@
 title: Caret Move
 description: KAN-16 diagram lifecycle test page
 published: true
-date: 2026-11-23T09:59:02.955Z
+date: 2026-11-23T09:59:03.945Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T09:59:02.955Z
