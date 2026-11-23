@@ -2,7 +2,7 @@
 title: Dup Image
 description: KAN-16 diagram lifecycle test page
 published: true
-date: 2026-11-23T09:58:23.686Z
+date: 2026-11-23T09:58:24.682Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T09:58:23.686Z
