@@ -2,14 +2,14 @@
 title: History Parent
 description: Git history test page
 published: true
-date: 2026-11-23T09:32:32.222Z
+date: 2026-11-23T09:32:53.934Z
 tags: []
 editor: markdown
-dateCreated: 2026-11-23T09:32:32.222Z
+dateCreated: 2026-11-23T09:32:53.934Z
 ---
 
 # History Parent Heading
 
-History parent content.
+History parent UPDATED content via git.
 
 [Embed child](/cs/test-display-git-2026-11-23T09-32-25-466Z/hist-child#display)
