@@ -2,15 +2,15 @@
 title: Preview Draft
 description: KAN-16 diagram lifecycle test page
 published: true
-date: 2026-11-16T14:13:52.666Z
+date: 2026-11-23T09:31:46.411Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-16T14:13:50.814Z
-diagramsDigest: ffc312e829110f6971d7b345c97aa194d758f3a347b499473464a67be2c1b9b9
+dateCreated: 2026-11-23T09:31:44.693Z
+diagramsDigest: 6d87ce8ce3aa769904870f2a4c746915a87205e30932ec64a17dabff9b2cbdb1
 ---
 
 # Preview Draft
 
 ```diagram
-uuid:498bd0f7-378f-484c-9114-4400cd81c376
+uuid:460dfc9b-46f8-46fc-aa27-e1b21d9a5fd8
 ```
