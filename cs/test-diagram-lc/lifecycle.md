@@ -2,11 +2,11 @@
 title: Diagram Lifecycle
 description: KAN-16 diagram lifecycle test page
 published: true
-date: 2026-11-23T09:58:16.470Z
+date: 2026-11-23T09:58:19.438Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T09:58:13.128Z
-diagramsDigest: 23202c2adc41702520defe41a99ea7e227a451f669f5fbfbfa8057d0eb0c1f74
+diagramsDigest: bfd7e8b2138088d74a03a83583af951c4a2adfa06918a5d95d33352b98db2ac5
 ---
 
 # Diagram Lifecycle
