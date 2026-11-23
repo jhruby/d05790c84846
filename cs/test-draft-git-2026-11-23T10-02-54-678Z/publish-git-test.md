@@ -2,12 +2,12 @@
 title: Publish Git Test
 description: Draft/Publish git test page
 published: true
-date: 2026-11-23T10:03:15.929Z
-tags: []
+date: 2026-11-23T10:03:32.982Z
+tags: 
 editor: markdown
-dateCreated: 2026-11-23T10:03:15.929Z
+dateCreated: 2026-11-23T10:03:22.105Z
 ---
 
 # Publish Git Test
 
-Original published content.
+Draft content to be published.
