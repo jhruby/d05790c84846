@@ -2,7 +2,7 @@
 title: Dup Fence
 description: KAN-16 diagram lifecycle test page
 published: true
-date: 2026-11-23T09:58:25.905Z
+date: 2026-11-23T09:58:26.942Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T09:58:25.905Z
