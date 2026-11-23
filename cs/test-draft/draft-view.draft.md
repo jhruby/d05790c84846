@@ -10,4 +10,4 @@ dateCreated: 2026-11-23T10:05:07.097Z
 
 # Draft View
 
-Secret draft content - should NOT be visible publicly.
+Draft preview content for authorized users.
